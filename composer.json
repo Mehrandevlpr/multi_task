@@ -1,0 +1,7 @@
+{
+    "require": {
+        "catfan/medoo": "^1.7",
+        "fakerphp/faker": "^1.19",
+        "hekmatinasser/verta": "^1.12"
+    }
+}
